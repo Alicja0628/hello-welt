@@ -29,3 +29,4 @@ while True:
     else:
         print("Błąd!")
         
+    print("Fajne repo, trzymaj tak dalej")
